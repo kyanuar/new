@@ -109,27 +109,27 @@ export const workData = [
   {
     title: "Coordinator",
     description: "KKN-T IPB",
-    bgImage: "/assets/public/wrk-1.png",
+    bgImage: "wrk-1.png",
   },
   {
     title: "Field Research",
     description: "Thesis",
-    bgImage: "/assets/public/work-3.png",
+    bgImage: "work-3.png",
   },
   {
     title: "Volunteer",
     description: "FBBN",
-    bgImage: "/assets/public/wrk-3.png",
+    bgImage: "wrk-3.png",
   },
   {
     title: "Project Assistant",
     description: "PT Primakelola IPB",
-    bgImage: "/assets/public/work-1.png",
+    bgImage: "work-1.png",
   },
   {
     title: "Freelance",
     description: "PPM Asesmen",
-    bgImage: "/assets/public/work-2.png",
+    bgImage: "work-2.png",
   },
 ];
 
