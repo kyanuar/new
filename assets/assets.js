@@ -104,7 +104,7 @@ export const workData = [
   {
     title: "Staf",
     description: "Departement AGH",
-    bgImage: "/assets/public/wrk-2.png",
+    bgImage: "wrk-2.png",
   },
   {
     title: "Coordinator",
